@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_589380_wish_list_wish_item</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-31 21:14:32</sys_created_on>
+        <sys_id>5ee057a82fd32010be2a821df699b6c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_589380_wish_list_wish_item</sys_name>
+        <sys_package display_value="Wish List" source="x_589380_wish_list">ae505f682fd32010be2a821df699b6af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">ae505f682fd32010be2a821df699b6af</sys_scope>
+        <sys_update_name>ua_table_licensing_config_5ee057a82fd32010be2a821df699b6c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 21:14:32</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
